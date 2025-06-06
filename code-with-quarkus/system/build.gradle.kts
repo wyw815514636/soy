@@ -31,4 +31,5 @@ dependencies {
     implementation("io.quarkus:quarkus-opentelemetry")
     implementation("io.quarkus:quarkus-hibernate-reactive-panache-kotlin")
     implementation("io.quarkus:quarkus-mongodb-panache-kotlin")
+    implementation("io.quarkus:quarkus-vertx")
 }
