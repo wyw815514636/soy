@@ -31,5 +31,6 @@ dependencies {
     implementation("io.quarkus:quarkus-opentelemetry")
     implementation("io.quarkus:quarkus-hibernate-reactive-panache-kotlin")
     implementation("io.quarkus:quarkus-mongodb-panache-kotlin")
-    implementation("io.quarkus:quarkus-vertx")
+    implementation("io.quarkus:quarkus-smallrye-jwt")
+    implementation("io.quarkus:quarkus-smallrye-jwt-build")
 }
