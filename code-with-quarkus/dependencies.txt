@@ -1,0 +1,40 @@
+1. 核心功能
+[x] quarkus-arc (依赖注入)
+[x] quarkus-vertx
+[x] quarkus-rest (注意：不是 RESTEasy)
+[x] quarkus-rest-jackson
+2. 数据库和持久化
+[x] quarkus-reactive-pg-client (响应式 PostgreSQL 客户端)
+[x] quarkus-mongodb-panache-kotlin (MongoDB with Panache)
+[x] quarkus-hibernate-reactive-panache-kotlin
+[x] quarkus-redis-client
+3. 消息和事件处理
+[x] quarkus-messaging-kafka
+4. API 和验证
+[x] quarkus-smallrye-graphql
+[x] quarkus-smallrye-openapi
+[x] quarkus-hibernate-validator
+5. 安全相关
+[x] quarkus-elytron-security
+[x] quarkus-smallrye-jwt
+[x] quarkus-smallrye-jwt-build
+6. 监控和运维
+[x] quarkus-kubernetes
+[x] quarkus-container-image-jib
+[x] quarkus-smallrye-health
+[x] quarkus-opentelemetry
+[x] quarkus-smallrye-fault-tolerance
+7. 缓存
+[x] quarkus-cache
+8. Apache Camel 集成
+[x] camel-quarkus-reactive-executor
+[x] camel-quarkus-reactive-streams
+[x] camel-quarkus-direct
+[x] camel-quarkus-yaml-dsl
+[x] camel-quarkus-kotlin-dsl
+[x] camel-quarkus-bean
+[x] camel-quarkus-rest
+[x] camel-quarkus-platform-http
+[x] camel-quarkus-caffeine
+[x] camel-quarkus-disruptor
+[x] camel-quarkus-timer
